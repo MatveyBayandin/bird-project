@@ -1,0 +1,109 @@
+*{
+    font-family: calibri;
+    color: white;
+    font-size: 18px;
+}
+
+.container{
+    width: 1170px;
+    margin: auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+
+}
+
+.avatar{
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+.header-nav{
+    margin-right: 20px;
+}
+.main-1{
+    background-color:#1abc9c;
+
+}
+.main-2{
+    background-color:#474e5d;
+
+}
+.main-section1{
+    text-align: center;
+    padding: 50px 0;
+    
+}
+
+h1{
+    font-size: 25px;
+    padding: 30px 0;
+    margin: 0;
+}
+.bird-1{
+    border-radius: 50%;
+    margin: 0;
+}
+
+.main-section2{
+    background-color:#474e5d;
+    text-align: center;
+    padding: 100px 0 ;
+}
+.main-section2-h1{
+    padding: 0;
+    margin-bottom: 50px;
+}
+.desc{
+    margin: 0 35px;
+    text-align: justify;
+    text-indent: 25px;
+}
+.desc2{
+    margin: 0 35px;
+}
+button{
+    color: grey;
+    width: 80px;
+    height: 35px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.main-section3{
+    text-align: center;
+}
+.main-section3 h1{
+    color: #797e89;
+    margin: 35px 0 0 0 ;
+}
+
+.blocki section{
+    width: 370px;
+
+}
+
+.blocki{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.blocki section p{
+    color: #474e5d;
+    text-align: center;
+}
+.footer{
+    background-color: #474e5d;
+    text-align: center;
+    padding: 65px 0;
+}
+.footer a{
+    color: rgb(94, 94, 212);
+}
